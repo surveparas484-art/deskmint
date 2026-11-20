@@ -1,0 +1,41 @@
+# DeskMint — Every Tool. One Smarter Workspace.
+
+> DeskMint is a fast, privacy-first web workspace offering free online PDF tools, exact-KB PDF & image compressors, Indian university CGPA-to-percentage calculators, everyday utilities, an AI writing studio, and a 130+ language translator.
+
+## Privacy & Architecture
+- **100% Browser-Based Core Mint**: All PDF tools, image tools, calculators, date tools, word counters, and QR code generators run locally inside the user's browser. Files never leave the user's device.
+- **Privacy-First AI**: AI Studio and Translation Studio process text securely in real time with zero storage.
+- **No Forced Accounts**: Users can immediately use all tools without signing up.
+
+## Flagship Mint & High-Intent Pages
+### PDF Compression & Editing (Local, Browser-Based)
+- Compress PDF (Smart Auto + Custom Target Size KB/MB, zero bloat): /tools/compress-pdf
+- Compress PDF to 100KB: /tools/compress-pdf-to-100kb
+- Compress PDF to 200KB: /tools/compress-pdf-to-200kb
+- Compress PDF to 50KB: /tools/compress-pdf-to-50kb
+- Merge PDF, Split PDF, Rotate PDF, Remove PDF Pages, PDF to JPG, Images to PDF, Add Page Numbers, Add Watermark
+
+### Image Compression & Editing (Local, Browser-Based)
+- Image Compressor (Quality Slider + Custom Target Size KB/MB + WebP): /tools/image-compressor
+- Compress Image to 50KB (Exam & Passport Photos): /tools/compress-image-to-50kb
+- Compress Image to 20KB (Signatures): /tools/compress-image-to-20kb
+- Image Resizer, Image Converter, Image Cropper
+
+### Indian University CGPA & SGPA Calculators
+- CGPA Calculator (with Indian university presets): /tools/cgpa-calculator
+- SPPU (Pune University 2019 & 2024 Pattern) CGPA to Percentage: /tools/sppu-cgpa-to-percentage
+- Mumbai University CGPA to Percentage: /tools/mumbai-university-cgpa-to-percentage
+- DBATU (Maharashtra) CGPA to Percentage: /tools/dbatu-cgpa-to-percentage
+- RTMNU (Nagpur University) CGPA to Percentage: /tools/rtmnu-cgpa-to-percentage
+- VTU (Karnataka) CGPA to Percentage: /tools/vtu-cgpa-to-percentage
+- AKTU (UPTU) CGPA to Percentage: /tools/aktu-cgpa-to-percentage
+- Anna University CGPA to Percentage: /tools/anna-university-cgpa-to-percentage
+- GTU (Gujarat) CGPA to Percentage: /tools/gtu-cgpa-to-percentage
+- Age Calculator (with birthday celebration), Percentage Calculator, Attendance Calculator, Unit Converter
+
+### Global Translator & AI Studio
+- 130+ World & Indian Language Translator: /tools/translator
+- English to Marathi Translator: /tools/english-to-marathi-translator
+- English to Hindi Translator: /tools/english-to-hindi-translator
+- Hindi to English Translator: /tools/hindi-to-english-translator
+- AI Email Writer, AI Summarizer, AI Grammar Checker, AI Rewriter, AI Notes Generator, AI PDF Summarizer
