@@ -9,6 +9,6 @@ export const siteConfig = {
   // Automatically uses NEXT_PUBLIC_SITE_URL in Vercel/production; switches seamlessly if you upgrade to a custom domain.
   url: (process.env.NEXT_PUBLIC_SITE_URL || "https://deskmint.vercel.app").replace(/\/$/, ""),
   contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "",
-  gaId: process.env.NEXT_PUBLIC_GA_ID || "",
+  gaId: process.env.NEXT_PUBLIC_GA_ID || "GTM-5MTTJ3LP",
   gscVerification: process.env.NEXT_PUBLIC_GSC_VERIFICATION || "",
 } as const;
