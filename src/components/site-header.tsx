@@ -10,7 +10,7 @@ import { categories } from "@/lib/registry";
 interface NavLink { href: string; label: string; cat: string | null; home?: boolean }
 const links: NavLink[] = [
   { href: "/", label: "Home", cat: null, home: true },
-  { href: "/tools", label: "All Mint", cat: null },
+  { href: "/tools", label: "All Tools", cat: null },
   ...categories.filter((c) => c.id !== "utility").map((c) => ({ href: `/tools?category=${c.id}`, label: c.label, cat: c.id as string })),
 ];
 
