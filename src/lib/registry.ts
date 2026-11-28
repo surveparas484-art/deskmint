@@ -45,10 +45,10 @@ export interface CategoryDef {
 }
 
 export const categories: CategoryDef[] = [
-  { id: "pdf", label: "PDF Mint", blurb: "Merge, split, rotate, compress and build PDFs.", icon: "FileText", tone: "text-rose-600 bg-rose-500/10 dark:text-rose-300" },
-  { id: "image", label: "Image Mint", blurb: "Compress, resize and convert images.", icon: "Image", tone: "text-emerald-600 bg-emerald-500/10 dark:text-emerald-300" },
+  { id: "pdf", label: "PDF Tools", blurb: "Merge, split, rotate, compress and build PDFs.", icon: "FileText", tone: "text-rose-600 bg-rose-500/10 dark:text-rose-300" },
+  { id: "image", label: "Image Tools", blurb: "Compress, resize and convert images.", icon: "Image", tone: "text-emerald-600 bg-emerald-500/10 dark:text-emerald-300" },
   { id: "calculator", label: "Calculators", blurb: "Age, percentages, grades, units and dates.", icon: "Calculator", tone: "text-blue-600 bg-blue-500/10 dark:text-sky-300" },
-  { id: "text", label: "Text Mint", blurb: "Count, clean and transform text.", icon: "Type", tone: "text-violet-600 bg-violet-500/10 dark:text-violet-300" },
+  { id: "text", label: "Text Tools", blurb: "Count, clean and transform text.", icon: "Type", tone: "text-violet-600 bg-violet-500/10 dark:text-violet-300" },
   { id: "utility", label: "Everyday Utilities", blurb: "QR codes, timers and small helpers.", icon: "QrCode", tone: "text-amber-600 bg-amber-500/10 dark:text-amber-300" },
   { id: "ai", label: "AI Studio", blurb: "Summarise, proofread, rewrite and explain with AI.", icon: "Sparkles", tone: "text-indigo-600 bg-indigo-500/10 dark:text-indigo-300" },
   { id: "translate", label: "Translation Studio", blurb: "Translate text between Indian and world languages.", icon: "Languages", tone: "text-teal-600 bg-teal-500/10 dark:text-teal-300" },
