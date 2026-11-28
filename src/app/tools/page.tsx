@@ -5,7 +5,7 @@ import { ToolIcon } from "@/components/icons";
 import { categories, tools, type CategoryId } from "@/lib/registry";
 
 export const metadata: Metadata = {
-  title: "All Tool",
+  title: "All Tools",
   description: "Browse every PDF tool, image tool, calculator and text utility. Search by name or task and filter by category.",
   alternates: { canonical: "/tools" },
 };
