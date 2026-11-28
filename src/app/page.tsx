@@ -63,7 +63,7 @@ export default function Home() {
             ))}
           </div>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
-            <Link href="/tools" className="btn-primary">Explore All Mint <ArrowRight className="h-4 w-4" aria-hidden="true" /></Link>
+            <Link href="/tools" className="btn-primary">Explore All Tools <ArrowRight className="h-4 w-4" aria-hidden="true" /></Link>
             <Link href="/#categories" className="btn-ghost">Browse categories</Link>
           </div>
           <p className="mt-6 text-sm text-muted">{activeMint.length} tools available now · {comingSoon} more coming soon</p>
